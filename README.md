@@ -42,6 +42,5 @@ I am a person who values simplicity and minimalism, striving to keep only the es
 ## 🤝 Let's Connect:
 
 - **Telegram**: [@swyknox](https://t.me/swyknox)
-- **YouTube**: [@swyknox](https://youtube.com/@swyknox)
-- **My website**: [mateusantos.com](https://mateusantos.com)
+- **Website**: [mateusantos.com](https://mateusantos.com)
 - **Email**: [email@mateusantos.com](mailto:email@mateusantos.com)

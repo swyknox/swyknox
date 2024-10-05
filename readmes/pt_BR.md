@@ -41,8 +41,7 @@ Sou uma pessoa que valoriza a simplicidade e o minimalismo, buscando manter apen
 
 ## 🤝 Vamos nos conectar:
 
-- **Telegram de conteúdos**: [@swyknox_hub](https://t.me/s/swyknox_hub)
-- **Telegram**: [@swyknox](https://t.me/swyknox)
-- **YouTube**: [@swyknox](https://youtube.com/@swyknox)
-- **Meu site**: [mateusantos.com](https://mateusantos.com)
+- **Telegram**: [@swyknox](https://t.me/s/swyknox_hub)
+- **Instagram**: [@mateusantoscom](https://instagram.com/mateusantoscom)
+- **Site**: [mateusantos.com](https://mateusantos.com)
 - **E-mail**: [email@mateusantos.com](mailto:email@mateusantos.com)
